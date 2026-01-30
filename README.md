@@ -1,4 +1,4 @@
-• Gerado por IA, confundido com realidade •
+• GERADO POR IA, CONFUNDIDO COM REALIDADE •
 
 ## 📒 Descrição
 Projeto criado para o desafio Natural ou Fake Natty, utilizando IA generativa para desenvolver a divulgação fictícia da continuação do filme Titanic, mas com aparência realista.
