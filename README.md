@@ -14,5 +14,6 @@ Primeiro defini qual filme não possuía continuação. Em seguida, utilizei o C
 ## 🚀 Resultados
 O resultado foi uma divulgação de continuidade de um filme, visual e textual que poderia facilmente ser confundida com uma peça real de marketing da indústria cinematográfica.
 
+
 ## 💭 Reflexão (Opcional)
-O maior desafio foi equilibrar criatividade e realismo, garantindo que o conteúdo não parecesse artificial, principalmente com relação a imagem.
+O maior desafio foi equilibrar criatividade e realismo, garantindo que o conteúdo não parecesse artificial, principalmente em relação às imagens. Ainda assim, foi muito interessante utilizar diferentes ferramentas no processo de criação, pois essa combinação evidencia as inúmeras possibilidades de construir coisas incríveis por meio da IA Generativa.
